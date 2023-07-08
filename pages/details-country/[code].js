@@ -1,0 +1,1 @@
+export {default} from '../../containers/details-country/country-container'
