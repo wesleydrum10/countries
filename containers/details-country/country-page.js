@@ -87,6 +87,7 @@ export default function DetailsCountryPage({ name }) {
               sm={12}
               md={6}
               lg={6}
+              mt={3}
               sx={{ flexDirection: 'column' }}
             >
               <BoxDescription>
@@ -137,6 +138,7 @@ export default function DetailsCountryPage({ name }) {
               sm={12}
               md={6}
               lg={6}
+              mt={3}
               sx={{ flexDirection: 'column' }}
             >
               <BoxDescription>
@@ -174,6 +176,7 @@ export default function DetailsCountryPage({ name }) {
               md={12}
               lg={12}
               mt={2}
+              mb={4}
               sx={{ display: 'inline-flex', '@media(max-width: 600px)': {flexDirection: 'column'} }}
             >
               <Grid item xs={12} sm={12} md={3} lg={3} mt={2}>
